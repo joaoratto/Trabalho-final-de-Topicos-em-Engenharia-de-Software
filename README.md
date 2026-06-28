@@ -1,4 +1,4 @@
-# Trabalho-final-de-Topicos-em-Engenharia-de-Software
+# Trabalho final de Topicos em Engenharia de Software
 
 Para replicar este trabalho, execute environment.yml
 
